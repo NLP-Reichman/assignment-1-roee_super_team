@@ -14,7 +14,11 @@
     "en_tl": -5.418332852798692,
     "en_nl": -5.75622725525264
   },
-  "test_match": "KeyError('source')",
+  "test_match": {
+    "en_en_3": 4.456183925712093,
+    "en_tl_3": 11.864540821389246,
+    "en_nl_3": 12.470397123390557
+  },
   "test_generate": {
     "english_1_gram": "I tpgLpC eLhF nostTloI",
     "english_2_gram": "I am oulpeginShmee bie ae",
